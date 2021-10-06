@@ -50,10 +50,10 @@ def generate_uID(current):
     return str(current) + str(random.randint(1000, 10001))
 
 def get_classes(lst):
-    spisok = ""
+    lst = ""
     for i in range(len(lst)):
-        spisok = spisok + (lst[i] + " ")
-    return spisok
+        lst = lst + (lst[i] + " ")
+    return lst
 
 def isRegistered(id):
     with connection.cursor() as cursor:
