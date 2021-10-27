@@ -1,13 +1,13 @@
-user = "root"
-password = "SanPauluKgd487"
+user = "INSERT YOUR db_username THERE"
+password = "INSERT YOUR db_paswword THERE"
 db_name = "test1"
 host = "localhost"
 port = 3306
-id_admin = -1001176047527
+id_admin = "INSERT YOUR Telegram ID of admin THERE"
 
-filepath_user_photo = 'C:/Users/Lario/Desktop/autumnEvent2021/photos/'
-filepath_user_qr_code = 'C:/Users/Lario/Desktop/autumnEvent2021/qr_codes/'
-filepath_user_ticket = 'C:/Users/Lario/Desktop/autumnEvent2021/tickets/'
+filepath_user_photo = 'C:/Users/<YOUR_NAME>/Desktop/autumnEvent2021/photos/'
+filepath_user_qr_code = 'C:/Users/<YOUR_NAME>/Desktop/autumnEvent2021/qr_codes/'
+filepath_user_ticket = 'C:/Users/<YOUR_NAME>/Desktop/autumnEvent2021/tickets/'
 
 teachers = {"10А":"Березина Людмила Леонтьевна","10Г":"Шевцова Любовь Васильевна","10И":"Аллахвердянц Гаянэ Эдуардовна",
             "10К":"Немченко Елена Владимировна","10Л":"Савенкова Людмила Валерьевна",
@@ -21,4 +21,4 @@ info_message = "Это бот регистрации на осенний бал 
 
 status_list = ['приглашён', 'в обработке', 'отклонена']
 
-apiKey = 1851132100:AAE0fOc9Z0K5wSGouW_OVdkvIKExlT4qNUQ
+apiKey = "INSERT YOUR API-KEY THERE"
